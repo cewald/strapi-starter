@@ -15,18 +15,18 @@
     "@strapi/plugin-cloud": "5.10.2",
     "@strapi/plugin-users-permissions": "5.10.2",
     "@strapi/strapi": "5.10.2",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.3.0",
     "mime-types": "^2.1.27",
-    "pg": "8.8.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-router-dom": "^6.0.0",
+    "pg": "8.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5",
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
     "typescript": "^5"
   },
   "engines": {
