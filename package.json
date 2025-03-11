@@ -12,15 +12,15 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-cloud": "5.10.4",
-    "@strapi/plugin-users-permissions": "5.10.4",
-    "@strapi/strapi": "5.10.4",
+    "@strapi/plugin-cloud": "5.11.0",
+    "@strapi/plugin-users-permissions": "5.11.0",
+    "@strapi/strapi": "5.11.0",
     "fs-extra": "^11.3.0",
     "mime-types": "^2.1.27",
     "pg": "8.13.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^7.2.0",
+    "react-router-dom": "^7.3.0",
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
